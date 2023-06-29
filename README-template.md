@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![file:///C:/Users/edith/OneDrive/Desktop/Practise-Project/qr-code-component-main/images/screenshot-qr-code.png](./screenshot.jpg)
+![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,15 +33,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL:  [file:///C:/Users/edith/OneDrive/Desktop/Practise-Project/qr-code-component-main/index.html](https://your-solution-url.com)
-- Live Site URL: [https://www.w3schools.com/css/default.asp](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- HTML layout
 - CSS custom properties
 - Flexbox
 - CSS Grid
